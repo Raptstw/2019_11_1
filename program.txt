@@ -3,3 +3,8 @@ asd
 
 
 methi
+
+
+void  master10-14
+{
+}
