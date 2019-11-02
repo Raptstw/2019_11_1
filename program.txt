@@ -4,7 +4,13 @@ asd
 
 methi
 
+<<<<<<< HEAD
 
 void  master10-14
 {
+=======
+show()
+{
+
+>>>>>>> newfunction
 }
